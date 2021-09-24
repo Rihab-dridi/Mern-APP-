@@ -1,0 +1,7 @@
+.editBtns{
+    background-color: white;
+    display: flex;
+    justify-content: end;
+    column-gap: 10px;
+    margin-top: 10px;
+}

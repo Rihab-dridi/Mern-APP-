@@ -1,0 +1,7 @@
+.contactListContainer{
+    background-color: rgb(233, 236, 236);
+    display: flex;
+    justify-content: space-around;
+    margin:50px 120px;
+    flex-wrap: wrap;
+}
